@@ -1,0 +1,67 @@
+.job {
+    background-image:url('../images/jobs/none.png');
+    /*background-size: contain;*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: center;*/
+}
+
+.Error .job { background-image:url('../images/error.png') }
+
+.Gla .job { background-image:url('../images/jobs/gld.png') }
+.Pld .job { background-image:url('../images/jobs/pld.png') }
+.Mrd .job { background-image:url('../images/jobs/mrd.png') }
+.War .job { background-image:url('../images/jobs/war.png') }
+.Drk .job { background-image:url('../images/jobs/drk.png') }
+.Gnb .job { background-image:url('../images/jobs/gnb.png') }
+
+.Cnj .job { background-image:url('../images/jobs/cnj.png') }
+.Whm .job { background-image:url('../images/jobs/whm.png') }
+.Sch .job { background-image:url('../images/jobs/sch.png') }
+.Ast .job { background-image:url('../images/jobs/ast.png') }
+.Sge .job { background-image:url('../images/jobs/sge.png') }
+
+.Pgl .job { background-image:url('../images/jobs/pgl.png') }
+.Mnk .job { background-image:url('../images/jobs/mnk.png') }
+.Lnc .job { background-image:url('../images/jobs/lnc.png') }
+.Drg .job { background-image:url('../images/jobs/drg.png') }
+.Rog .job { background-image:url('../images/jobs/rog.png') }
+.Nin .job { background-image:url('../images/jobs/nin.png') }
+.Sam .job { background-image:url('../images/jobs/sam.png') }
+.Rpr .job { background-image:url('../images/jobs/rpr.png') }
+
+.Arc .job { background-image:url('../images/jobs/arc.png') }
+.Brd .job { background-image:url('../images/jobs/brd.png') }
+.Mch .job { background-image:url('../images/jobs/mch.png') }
+.Dnc .job { background-image:url('../images/jobs/dnc.png') }
+
+.Thm .job { background-image:url('../images/jobs/thm.png') }
+.Blm .job { background-image:url('../images/jobs/blm.png') }
+.Acn .job { background-image:url('../images/jobs/acn.png') }
+.Smn .job { background-image:url('../images/jobs/smn.png') }
+.Rdm .job { background-image:url('../images/jobs/rdm.png') }
+.Blu .job { background-image:url('../images/jobs/blu.png') }
+
+.Crp .job { background-image:url('../images/jobs/crp.png') }
+.Bsm .job { background-image:url('../images/jobs/bsm.png') }
+.Arm .job { background-image:url('../images/jobs/arm.png') }
+.Gsm .job { background-image:url('../images/jobs/gsm.png') }
+.Ltw .job { background-image:url('../images/jobs/ltw.png') }
+.Wvr .job { background-image:url('../images/jobs/wvr.png') }
+.Alc .job { background-image:url('../images/jobs/alc.png') }
+.Cul .job { background-image:url('../images/jobs/cul.png') }
+.Min .job { background-image:url('../images/jobs/min.png') }
+.Btn .job { background-image:url('../images/jobs/btn.png') }
+.Fsh .job { background-image:url('../images/jobs/fsh.png') }
+
+.Choco .job { background-image:url('../images/jobs/choco.png') }
+
+.Carbuncle .job { background-image:url('../images/jobs/carbuncle.png') }
+
+.Ifrit .job { background-image:url('../images/jobs/carbuncle.png') }
+.Garuda .job { background-image:url('../images/jobs/carbuncle.png') }
+.Titan .job { background-image:url('../images/jobs/carbuncle.png') }
+
+.Eos .job { background-image:url('../images/jobs/carbuncle.png') }
+.Selene .job { background-image:url('../images/jobs/carbuncle.png') }
+
+.Limit.Break .job { background-image:url('../images/jobs/limitbreak.png') }
