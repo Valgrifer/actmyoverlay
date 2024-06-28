@@ -1,7 +1,7 @@
 let blacklist = ["Monocéros"];
 let tank = ["Gla", "Pld", "Mrd", "War", "Drk", "Gnb"];
 let heal = ["Cnj", "Whm", "Sch", "Ast", "Sge"];
-let dps = ["Pgl", "Mnk", "Lnc", "Drg", "Rog", "Nin", "Sam", "Rpr", "Arc", "Brd", "Mch", "Dnc", "Thm", "Blm", "Acn", "Smn", "Rdm", "Blu"];
+let dps = ["Pgl", "Mnk", "Lnc", "Drg", "Rog", "Nin", "Sam", "Rpr", "Vpr", "Arc", "Brd", "Mch", "Dnc", "Thm", "Blm", "Acn", "Smn", "Rdm", "Pct", "Blu"];
 
 function isTank(job)
 {
