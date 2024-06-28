@@ -28,6 +28,7 @@
 .Nin .job { background-image:url('../images/jobs/nin.png') }
 .Sam .job { background-image:url('../images/jobs/sam.png') }
 .Rpr .job { background-image:url('../images/jobs/rpr.png') }
+.Vpr .job { background-image:url('../images/jobs/vpr.png') }
 
 .Arc .job { background-image:url('../images/jobs/arc.png') }
 .Brd .job { background-image:url('../images/jobs/brd.png') }
@@ -39,6 +40,7 @@
 .Acn .job { background-image:url('../images/jobs/acn.png') }
 .Smn .job { background-image:url('../images/jobs/smn.png') }
 .Rdm .job { background-image:url('../images/jobs/rdm.png') }
+.Pct .job { background-image:url('../images/jobs/pct.png') }
 .Blu .job { background-image:url('../images/jobs/blu.png') }
 
 .Crp .job { background-image:url('../images/jobs/crp.png') }
