@@ -340,6 +340,7 @@ tr.Rog,
 tr.Nin,
 tr.Sam,
 tr.Rpr,
+tr.Vpr,
 tr.Arc,
 tr.Brd,
 tr.Mch,
@@ -349,6 +350,7 @@ tr.Blm,
 tr.Acn,
 tr.Smn,
 tr.Rdm,
+tr.Pct,
 tr.Blu {
     /*background-color: rgba(200,3,8,0.2);*/
 	background: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0.5, rgba(200,0,0,0.5)), color-stop(1, rgba(100,0,0,0.5)));
